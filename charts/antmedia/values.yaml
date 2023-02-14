@@ -5,3 +5,4 @@ image:
   repository: antmedia/enterprise
   tag: 2.5.3
   pullPolicy: IfNotPresent
+hostNetwork: true
