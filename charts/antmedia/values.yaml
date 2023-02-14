@@ -1,3 +1,7 @@
 origin: origin.antmedia.cloud
 edge: edge.antmedia.cloud
 mongoDB: mongo
+image:
+  repository: antmedia/enterprise
+  tag: 2.5.3
+  pullPolicy: IfNotPresent
